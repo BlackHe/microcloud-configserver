@@ -10,9 +10,9 @@ spring:
   application:
     name: microcloud-config-dev
 app:
-  info:blackhe microcloud
-  version:0.0.1
-  desc:xxxxxx
+  info: blackhe microcloud
+  version: 0.0.1
+  desc: xxxxxx
 
 ---
 
